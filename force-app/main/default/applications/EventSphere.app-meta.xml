@@ -24,6 +24,7 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Feed</tabs>
+    <tabs>Event__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>EventSphere_UtilityBar</utilityBar>
 </CustomApplication>
