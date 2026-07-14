@@ -16,6 +16,10 @@
     <label>EventSphere</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
+    <tabs>EventSphere_Event__c</tabs>
+    <tabs>EventSphere_Venue__c</tabs>
+    <tabs>EventSphere_Speaker__c</tabs>
+    <tabs>EventSphere_Session__c</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
@@ -23,10 +27,6 @@
     <tabs>standard-Task</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>standard-Feed</tabs>
-    <tabs>EventSphere_Event__c</tabs>
-    <tabs>EventSphere_Venue__c</tabs>
-    <tabs>EventSphere_Speaker__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>EventSphere_UtilityBar</utilityBar>
 </CustomApplication>

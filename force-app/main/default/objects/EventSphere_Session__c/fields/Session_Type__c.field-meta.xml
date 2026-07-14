@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Session_Type__c</fullName>
+    <label>Session Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Keynote</fullName>
+                <default>false</default>
+                <label>Keynote</label>
+            </value>
+            <value>
+                <fullName>Workshop</fullName>
+                <default>false</default>
+                <label>Workshop</label>
+            </value>
+            <value>
+                <fullName>Breakout Session</fullName>
+                <default>false</default>
+                <label>Breakout Session</label>
+            </value>
+            <value>
+                <fullName>Panel Discussion</fullName>
+                <default>false</default>
+                <label>Panel Discussion</label>
+            </value>
+            <value>
+                <fullName>Hands-on Lab</fullName>
+                <default>false</default>
+                <label>Hands-on Lab</label>
+            </value>
+            <value>
+                <fullName>Networking</fullName>
+                <default>false</default>
+                <label>Networking</label>
+            </value>
+            <value>
+                <fullName>Certification Training</fullName>
+                <default>false</default>
+                <label>Certification Training</label>
+            </value>
+            <value>
+                <fullName>Closing Ceremony</fullName>
+                <default>false</default>
+                <label>Closing Ceremony</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
